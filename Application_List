@@ -227,9 +227,8 @@ $_Application_Module_Member_Application_List_OPEN_DIRECTORY_APPLICATIONS_MEMBER	
 echo ("
 <HR ALIGN=\"CENTER\" WIDTH=\"50%\">
 	<CENTER>
-		::&nbsp;<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: Application List :: Options\">Options</A>&nbsp;::
-		&nbsp;<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;Display&#61;ApplicationIcons&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: Application List :: Applications\">Applications With Icons</A>&nbsp;::
-		&nbsp;<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;Display&#61;ApplicationList&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: Application List :: Applications\">Applications With List</A>&nbsp;::
+		::&nbsp;<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;Display&#61;ApplicationIcons&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: Application List :: Applications With Icons ::\">Applications With Icons</A>&nbsp;::
+		&nbsp;<A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;Display&#61;ApplicationList&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display :: Application List :: Applications With List ::\">Applications With List</A>&nbsp;::
 	</CENTER>
 <HR ALIGN=\"CENTER\" WIDTH=\"50%\">
 ");
