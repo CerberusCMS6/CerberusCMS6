@@ -5709,8 +5709,8 @@ if ($_GET["Display"] == "MemorizeLanguage") {
 echo ("
 <BIG><B>Memorize 3,650 Words In Any Language In 365 Days</B></BIG><BR><BR>
 
-<B>How Many Memorized Words Are Considered Fluent In A Given Language</B><BR>
-According to different sources the categories of language fluency are:<BR>
+<B>How Many Memorized Words Are Considered Fluent In Any Given Language</B><BR>
+According to different sources: the official categories of language fluency in the United States are:<BR>
 * A1 :: 1,500<BR>
 * A2 :: 1,500 - 2,500<BR>
 * B1 :: 2,750 - 3,250<BR>
@@ -5721,7 +5721,8 @@ According to different sources the categories of language fluency are:<BR>
 * D2 :: 7,500 - 10,000<BR><BR>
 
 <B>Based on this author's research and his trial and error</B>:<BR>
-* Only 5 - 15 words can be memorized per day with full complete retention at 3 - 8 hours per day by using and applying the included memorization techniques.
+* Only 5 - 15 words can be memorized per day with full complete retention by the next day and the weeks after memorization by memorization at: 3 - 8 hours per day by using and applying the included memorization techniques.
+5 words memorized per day at 3 hours per day is considered above average where 15 words memorized per day at 3 - 8 hours per day is considered genius.<BR><BR>
 
 <B>Example: Four Wall Room</B>:<BR>
 xxxxxxxxxx<BR>
