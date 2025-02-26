@@ -24,16 +24,15 @@
 | activities = [[Drug Trafficking]], [[Extortion]], [[Robbery|Armed Robbery]], [[Assault]], [[Murder]], [[Identity Fraud]], [[Money Laundering]]
 | allies = 
 {{plainlist|
-* [[Sureños of [[Lamont]], Southern California]]
-* [[Mexican Mafia of Kern County, Southern California]]
+* [[Sureños]] of [[Lamont]], [[Southern California]]
 * [[Vagos Motorcycle Club|Vagos MC]]
+* [[Hell's Angels Motorcycle Club|Hells Angels]]
 }}
 }}
 
 * Picture of biological son of the founder of the Nazi Lowriders: https://www.imghippo.com/i/Jfb9861SaA.jpeg or RAW image: 
 * Picture of NLRCMS Software: https://www.imghippo.com/i/K5033jM.png
 * Picture of NLRCMS Software: https://www.imghippo.com/i/juPY8040DlE.jpeg
-* Picture of CerberusCMS Documentation Wiki File: https://i.imghippo.com/files/twi1599XOY.jpg
 
 '''NLRCMS / CerberusCMS Developement'''
 * Project History ( 40 Minutes ) Watch This First: https://cerberuscms5.wistia.com/medias/4r8241jb83
